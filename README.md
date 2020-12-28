@@ -44,3 +44,8 @@ Steps:-
   c-Then after that we will pass it through CNN Architecture
 
   d-After then it will give the final result i.e. whether the image is real or fake.
+  
+
+Below are the Screenshot of the Projects - 
+![](Screenshot/Screenshot_1.png)
+![](Screenshot/Screenshot_2.png)
